@@ -4,7 +4,7 @@ from __future__ import annotations
 import os
 from pathlib import Path
 from dotenv import load_dotenv
-from pydantic import BaseSettings
+from pydantic.v1 import BaseSettings
 
 # Load .env if present
 load_dotenv()
