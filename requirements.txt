@@ -1,0 +1,6 @@
+playwright>=1.43
+pytest>=8.0
+python-dotenv>=1.0
+pydantic>=2.7
+sqlmodel>=0.0.16
+sqlalchemy>=2.0
